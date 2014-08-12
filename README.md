@@ -75,12 +75,13 @@ These steps have been tested on Mountain Lion 10.8.4 with Xcode 4.6.3. It is pro
   local_blocks_path=/usr/local/share/gnuradio/grc/blocks
   ```
 
-- Install HackRF & RTL-SDR related blocks
+- XXX DOES NOT WORK XXX Install HackRF & RTL-SDR related blocks
 
   ```sh
   brew install rtlsdr gr-osmosdr gr-baz --HEAD
   ```
-- If you want a graphic interface to play with your HackRF, GQRX is great
+
+- XXX DOES NOT WORK XXX If you want a graphic interface to play with your HackRF, GQRX is great
   To install it:
   
   ```sh
